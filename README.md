@@ -15,14 +15,10 @@ Open to **Infrastructure**, **Platform**, and **DevOps-minded** roles.
 
 - LinkedIn: https://www.linkedin.com/in/thiagofariasdesouza/
 - Portfolio (WIP): https://github.com/thiagofariasdesouza/private-infra-portfolio
-- Location: Hilton, Derbyshire, United Kingdom
-- Availability: **immediate** · remote / hybrid preferred
 
 ## What you will (and will not) find here
 
 **Will:** conceptual architecture notes, generic runbook/checklists, learning notes, eventually a sanitised case study.  
 **Will not:** real IPs, VLANs, hostnames, firewall rules, Compose from production, credentials, or family/org internals.
 
-## Contact
-
-- Email: thiagofariasdesouza@gmail.com
+Contact via LinkedIn.
